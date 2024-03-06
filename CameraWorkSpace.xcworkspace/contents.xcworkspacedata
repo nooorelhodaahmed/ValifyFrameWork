@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:CamraFrameWork/CamraFrameWork.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:CameraDemo/CameraDemo.xcodeproj">
+   </FileRef>
+</Workspace>
